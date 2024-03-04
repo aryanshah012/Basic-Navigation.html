@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 1px;
+}
+.HC{
+    color: darkgrey;
+    background-color:black;
+    
+    font-size: 32px;   
+}
+
+.AC{
+    background-color: black;
+    color: darkgrey;
+    font-size: 32px;
+    display: flex;
+         
+        gap: 55px;
+}
+
+
+button:hover {
+    color: Blue;
+    background-color: red;   
+}
+div{
+    
+    background-color:black;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 15px;
+    margin: 0px;
+
+}
+
+
